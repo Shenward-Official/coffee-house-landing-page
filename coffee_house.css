@@ -191,7 +191,7 @@ body{
     background: #FFF;
 }
 .sub__button:hover{
-    color: #EFEFEF;
+    background-color: #EFEFEF;
 }
 .footer{
     display: flex;
